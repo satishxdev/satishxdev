@@ -4,33 +4,22 @@
 📫 Email Me 👉 davsatish1870@gmail.com (For Collaboration / Projects)
 
 ---
-
 🔭 I’m currently working on:  
 Python projects and improving my programming skills  
-
 🌱 I’m currently learning:  
 Python, Web Development and Data Structures & Algorithms  
-
 👯 I’m looking to collaborate on:  
 Beginner-friendly open source projects and web applications  
-
 🤝 I’m looking for help with:  
 DSA and real-world project development  
-
 💬 Ask me about:  
 Python, Programming, Technology and Student Life  
-
-📫 How to reach me:  
-davsatish1870@gmail.com  
-
-😄 Pronouns:  
-He / Him  
-
 ⚡ Fun fact:  
 I love gym workouts and learning new tech skills every day 💪  
 
+📫 How to reach me:  
+davsatish1870@gmail.com  
 ---
-
 ⭐ Goal: Crack GATE Exam and become a Software Engineer in a top tech company 🚀
 
 ## 🏆 GitHub Trophies
