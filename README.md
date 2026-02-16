@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satish Prakash</h1>
 <h3 align="center">B.Tech CSE Student | Software Engineer</h3>
 
-📫 Email Me 👉 satishprakash.dev@gmail.com (For Collaboration / Projects)
+📫 Email Me 👉 davsatish1870@gmail.com (For Collaboration / Projects)
 
 ---
 
