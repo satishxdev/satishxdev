@@ -21,7 +21,7 @@ DSA and real-world project development
 Python, Programming, Technology and Student Life  
 
 📫 How to reach me:  
-satishprakash.dev@gmail.com  
+davsatish1870@gmail.com  
 
 😄 Pronouns:  
 He / Him  
